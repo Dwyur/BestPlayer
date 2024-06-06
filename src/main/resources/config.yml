@@ -1,0 +1,8 @@
+database:
+  databaseName: "test"
+  address: "localhost"
+  port: 3306
+  username: "root"
+  password: "4321"
+
+location: "world, 0.0, 80.0, 0.0, 0.0, 0.0" # world, x, y, z, yaw, pitch
